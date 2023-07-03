@@ -10,4 +10,12 @@
 
 <img width= "41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9S2being&layout=compact&hide_border=true&title_color=00FF7FFF&text_color=00FF7FFF&bg_color=0d1117"/>
 </div>
+<br>
+<br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9S2being&bg_color=0d1117&color=00FF7FFF&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-D2691E?style=for-the-badge&logo=html5&logoColor=D2691E&labelColor=0d1117)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-4682B4?&style=for-the-badge&logo=css3&logoColor=4682B4&labelColor=0d1117)&nbsp;
