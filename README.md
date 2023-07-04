@@ -15,24 +15,22 @@
 <div>
  <h2><strong>UM POUCO SOBRE MIM</strong></h2>
  <h3>Hobbies:</h3>
- 
- 
-  <p>Academia</p>
-  <p>videogames</p>
-  <p>Filmes</p>
-  <p>Fotografia</p>
-  <p>Jogos de tabueiro</p>
-  
+ <br>
+   <p>Academia</p>
+   <p>videogames</p>
+   <p>Filmes</p>
+   <p>Fotografia</p>
+   <p>Jogos de tabueiro</p>
 <br>
-
- <h3><strong>Formação</strong></h3>
- <p>Starter web Fullstack(Growdev)</p>
-
- <h3><strong>Experiências profissionais</strong></h3>
- <p>N/A</p>
-
- <h3>Linguagem de Programação favorita</h3>
- <p>JavaScript</p>
+  <h3><strong>Formação</strong></h3>
+  <p>Starter web Fullstack(Growdev)</p>
+ <br>
+  <h3><strong>Experiências profissionais</strong></h3>
+  <p>N/A</p>
+ <br>
+   <h3>Linguagem de Programação favorita</h3>
+   <p>JavaScript</p>
+  <br>
 
  
 </div>
