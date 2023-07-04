@@ -1,6 +1,6 @@
 
  <head>
-  <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheet.CSS" media="screen" />
  </head>
  
  <img width=100% src="https://capsule-render.vercel.app/api?/waving&color=00FF7F&height=208&section=header"/>
@@ -16,7 +16,7 @@
 </div>
 
 <br>
-<div text-align: center>
+<div text-aligncenter>
  <h2><strong>UM POUCO SOBRE MIM</strong></h2>
  <h3>Hobbies:</h3>
  <br>
