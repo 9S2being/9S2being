@@ -1,6 +1,6 @@
 
  <head>
-  <link rel="stylesheet" type="text/css" href="stylesheet.CSS" media="screen" />
+  <link rel="stylesheet" type="text/css" href="./CSS" media="screen" />
  </head>
  
  <img width=100% src="https://capsule-render.vercel.app/api?/waving&color=00FF7F&height=208&section=header"/>
@@ -16,7 +16,9 @@
 </div>
 
 <br>
-<div text-aligncenter>
+
+<main>
+<div>
  <h2><strong>UM POUCO SOBRE MIM</strong></h2>
  <h3>Hobbies:</h3>
  <br>
@@ -35,9 +37,8 @@
    <h3>Linguagem de Programação favorita</h3>
    <p>JavaScript</p>
   <br>
-
- 
 </div>
+</main>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9S2being&bg_color=0d1117&color=00FF7FFF&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
