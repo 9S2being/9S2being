@@ -1,6 +1,6 @@
 
  <head>
-  <link rel="stylesheet" type="text/css" href="./CSS" media="screen" />
+  <link rel="stylesheet" href="style.css">
  </head>
  
  <img width=100% src="https://capsule-render.vercel.app/api?/waving&color=00FF7F&height=208&section=header"/>
