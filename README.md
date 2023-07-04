@@ -1,8 +1,4 @@
 
- <head>
-  <link rel="stylesheet" href="style.css">
- </head>
- 
  <img width=100% src="https://capsule-render.vercel.app/api?/waving&color=00FF7F&height=208&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&pause=1000&color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO;MEU+NOME+É+JOÃO)](https://git.io/typing-svg)
@@ -16,9 +12,7 @@
 </div>
 
 <br>
-
-<main>
-<div>
+<div align="center">
  <h2><strong>UM POUCO SOBRE MIM</strong></h2>
  <h3>Hobbies:</h3>
  <br>
@@ -27,18 +21,23 @@
    <p>Filmes</p>
    <p>Fotografia</p>
    <p>Jogos de tabueiro</p>
+</div>
 <br>
-  <h3><strong>Formação</strong></h3>
-  <p>Starter web Fullstack(Growdev)</p>
+<div align="center">
+<h3> <strong> Formação </strong> </h3> </div>
+<p align="center"> Starter web Fullstack (Growdev)</p>
+</div>
+<div align="center">
  <br>
   <h3><strong>Experiências profissionais</strong></h3>
   <p>N/A</p>
+</div>
  <br>
+ <div align="center">
    <h3>Linguagem de Programação favorita</h3>
    <p>JavaScript</p>
   <br>
 </div>
-</main>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9S2being&bg_color=0d1117&color=00FF7FFF&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
