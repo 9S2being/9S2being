@@ -13,16 +13,7 @@
 
 <br>
 <div align="center">
- <h2><strong>UM POUCO SOBRE MIM</strong></h2>
- <br>
- <h3>Hobbies:</h3>
-   <p>Academia</p>
-   <p>videogames</p>
-   <p>Filmes</p>
-   <p>Fotografia</p>
-   <p>Jogos de tabueiro</p>
-</div>
-<br>
+ 
 <div align="center">
 <h3> <strong> Formação </strong> </h3> </div>
 <p align="center"> Starter web Fullstack (Growdev)</p>
