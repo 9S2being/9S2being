@@ -9,26 +9,6 @@
 <img width= "49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9S2being&icons=true&count_private=true&hide_border=true&title_color=00FF7FFF&text_color=00FF7FFF&bg_color=0d1117" alt= "João github stats" />
 
 <img width= "41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9S2being&layout=compact&hide_border=true&title_color=00FF7FFF&text_color=00FF7FFF&bg_color=0d1117"/>
-</div>
-
-<br>
-<div align="center">
- 
-<div align="center">
-<h3> <strong> Formação </strong> </h3> </div>
-<p align="center"> Starter web Fullstack (Growdev)</p>
-</div>
-<div align="center">
- <br>
-  <h3><strong>Experiências profissionais</strong></h3>
-  <p>N/A</p>
-</div>
- <br>
- <div align="center">
-   <h3>Linguagem de Programação favorita</h3>
-   <p>JavaScript</p>
-  <br>
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9S2being&bg_color=0d1117&color=00FF7FFF&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
