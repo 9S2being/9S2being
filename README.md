@@ -4,6 +4,9 @@
 <!-- Título digitando -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&pause=1000&color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO;ME+CHAMO+JOÃO;)](https://git.io/typing-svg)
 
+<!-- Sobre -->
+
+
 <!-- Estatísticas -->
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9S2being&layout=compact&hide_border=true&title_color=00FF7FFF&text_color=00FF7FFF&bg_color=0d1117"/>
