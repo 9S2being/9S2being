@@ -13,6 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9S2being&bg_color=0d1117&color=00FF7FFF&line=00FF00&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>Tecnologias:</h3>
+
 ![React](https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typesript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
