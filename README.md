@@ -5,9 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&pause=1000&color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM-VINDO;ME+CHAMO+JOÃO;)](https://git.io/typing-svg)
 
 <!-- Sobre -->
-<h3>Sobre</h3>
-#Hobbies:
-#Estudos: 
+
 
 
 <!-- Estatísticas -->
